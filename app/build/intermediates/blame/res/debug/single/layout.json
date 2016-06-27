@@ -1,7 +1,15 @@
 [
     {
-        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/layout/level1.xml",
-        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/layout/level1.xml"
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/layout/drawingview.xml",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/layout/drawingview.xml"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/layout/opacity_chooser.xml",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/layout/opacity_chooser.xml"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/layout/brush_chooser.xml",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/layout/brush_chooser.xml"
     },
     {
         "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",

@@ -1,6 +1,78 @@
 [
     {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/paint.xml",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/paint.xml"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/paint_pressed.xml",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/paint_pressed.xml"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/brush.png",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/brush.png"
+    },
+    {
         "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/wedo.png",
         "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/wedo.png"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/pattern2.jpg",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/pattern2.jpg"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/pattern6.jpg",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/pattern6.jpg"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/pattern8.jpg",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/pattern8.jpg"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/pattern3.jpg",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/pattern3.jpg"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/save.png",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/save.png"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/medium.xml",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/medium.xml"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/eraser.png",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/eraser.png"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/pattern7.jpg",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/pattern7.jpg"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/pattern1.jpg",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/pattern1.jpg"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/large.xml",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/large.xml"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/opacity.xml",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/opacity.xml"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/pattern5.jpg",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/pattern5.jpg"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/new_pic.png",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/new_pic.png"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/pattern4.jpg",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/pattern4.jpg"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/drawable/small.xml",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/drawable/small.xml"
     }
 ]

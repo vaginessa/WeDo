@@ -102,8 +102,141 @@
                     "startLine": 7,
                     "startColumn": 4,
                     "startOffset": 313,
+                    "endColumn": 42,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 42,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 43,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 321,
+                        "endColumn": 43,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 42,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 42,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 43,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 43,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 44,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 366,
+                        "endColumn": 44,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 532,
+                    "endColumn": 43,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 43,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endColumn": 52,
+                    "endOffset": 624
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 52,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 629,
                     "endColumn": 41,
-                    "endOffset": 350
+                    "endOffset": 666
                 },
                 "from": {
                     "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/strings.xml",
@@ -118,12 +251,202 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 355,
-                    "endLine": 11,
+                    "startOffset": 671,
+                    "endColumn": 39,
+                    "endOffset": 706
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 39,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 711,
+                    "endColumn": 39,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 39,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 52,
+                    "endOffset": 799
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 52,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 804,
+                    "endColumn": 37,
+                    "endOffset": 837
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 37,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 842,
+                    "endColumn": 38,
+                    "endOffset": 876
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 457,
+                        "endColumn": 38,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 881,
+                    "endColumn": 43,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 43,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 39,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 39,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 37,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 37,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 37,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 37,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1041,
+                    "endColumn": 41,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 41,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endLine": 28,
                     "endColumn": 12,
-                    "endOffset": 479
+                    "endOffset": 1207
                 },
                 "from": {
                     "file": "/home/nathaniel/fassydev/WeDo/app/src/main/res/values/styles.xml",
