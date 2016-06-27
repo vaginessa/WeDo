@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/layout/level1.xml",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/layout/level1.xml"
+    },
+    {
+        "merged": "/home/nathaniel/fassydev/WeDo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/nathaniel/fassydev/WeDo/app/src/main/res/layout/activity_main.xml"
+    }
+]
